@@ -1,2 +1,7 @@
 this is from file02 -- line 01 
+<<<<<<< HEAD
 this is from branch 4 file 0-- line 02
+=======
+this is from branch1 -- line 02,file  
+this is from branch 3 --line 03 , file 02
+>>>>>>> branch3
