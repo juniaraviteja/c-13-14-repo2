@@ -1,2 +1,1 @@
 this is from file02 -- line 01 
-this is from branch1 -- line 02,file  
