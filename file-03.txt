@@ -1,2 +1,6 @@
 this is from file 3 from master branch---- line 1
+<<<<<<< HEAD
 this is from file 3 from branch5 ----line2
+=======
+this is from file 3 from branch6 ----- line 2
+>>>>>>> branch6
